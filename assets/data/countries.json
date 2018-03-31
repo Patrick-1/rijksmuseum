@@ -1,0 +1,29 @@
+[
+  {
+    "ID": 1,
+    "Name": "NL",
+    "Capitol":
+    {
+      "ID": 1,
+      "Name": "Amsterdam"
+    }
+  },
+  {
+    "ID": 2,
+    "Name": "UK",
+    "Capitol":
+    {
+      "ID": 2,
+      "Name": "Londen"
+    }
+  },
+  {
+    "ID": 3,
+    "Name": "BE",
+    "Capitol":
+    {
+      "ID": 3,
+      "Name":"Brussel"
+    }
+  }
+]
